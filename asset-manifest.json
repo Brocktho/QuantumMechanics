@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuantumMechanics/static/css/main.f1e606d6.chunk.css",
+    "main.js": "/QuantumMechanics/static/js/main.6dd8ae01.chunk.js",
+    "main.js.map": "/QuantumMechanics/static/js/main.6dd8ae01.chunk.js.map",
+    "runtime-main.js": "/QuantumMechanics/static/js/runtime-main.5ef8ee8e.js",
+    "runtime-main.js.map": "/QuantumMechanics/static/js/runtime-main.5ef8ee8e.js.map",
+    "static/js/2.db38aa30.chunk.js": "/QuantumMechanics/static/js/2.db38aa30.chunk.js",
+    "static/js/2.db38aa30.chunk.js.map": "/QuantumMechanics/static/js/2.db38aa30.chunk.js.map",
+    "static/js/3.87686b7b.chunk.js": "/QuantumMechanics/static/js/3.87686b7b.chunk.js",
+    "static/js/3.87686b7b.chunk.js.map": "/QuantumMechanics/static/js/3.87686b7b.chunk.js.map",
+    "index.html": "/QuantumMechanics/index.html",
+    "static/css/main.f1e606d6.chunk.css.map": "/QuantumMechanics/static/css/main.f1e606d6.chunk.css.map",
+    "static/js/2.db38aa30.chunk.js.LICENSE.txt": "/QuantumMechanics/static/js/2.db38aa30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ef8ee8e.js",
+    "static/js/2.db38aa30.chunk.js",
+    "static/css/main.f1e606d6.chunk.css",
+    "static/js/main.6dd8ae01.chunk.js"
+  ]
+}
